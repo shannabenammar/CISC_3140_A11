@@ -1,6 +1,8 @@
 # CISC_3140_A11
 PONG
 -------------------------------------------------------------------------------
+Uses http://processingjs.org/
+-------------------------------------------------------------------------------
 Move left,right, up, and down with arrow keys to move human to catch the trophy.
 Win-Lose-Conditions:
 TO WIN: Get over or equal to 200 points
